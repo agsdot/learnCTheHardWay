@@ -1,0 +1,3 @@
+Arg....not sure if valgrind works properly on 10.9 and with clang.
+
+Need to try this exercise again with a computer that runs GCC properly. None of this clang / llvm stuff...
